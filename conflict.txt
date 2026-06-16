@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Master branch change
-=======
 Feature branch change
->>>>>>> 844c1eb (Modify conflict file from feature branch)
